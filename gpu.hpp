@@ -1,5 +1,5 @@
 #pragma once
 
 extern "C" {
-    std::cout << "Hello world" << std::endl;
+    void gpu_delegate();
 }
